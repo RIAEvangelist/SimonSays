@@ -1,2 +1,2 @@
 # SimonSays
-Simon says google app 
+Simon says
